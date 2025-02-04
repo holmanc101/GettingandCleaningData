@@ -1,0 +1,55 @@
+---
+title: "ReadME"
+author: "C.Holman"
+date: "2025-02-04"
+output: html_document
+---
+
+# Peer-graded Assignment: Getting and Cleaning Data Course Project
+ Deadline: Feb 7,2025
+
+## Files
+1. `run_analysis.R` : This script accomplishes the following tasks:
+  i.    Merges the training and the test sets to create one data set.
+  ii.   Extracts only the measurements on the mean and standard deviation for each measurement. 
+  iii.  Uses descriptive activity names to name the activities in the data set
+  iv.   Appropriately labels the data set with descriptive variable names. 
+  v.    From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+2. `CodeBook.rmd` : This file describes the variables and the operations of the script
+3. `tidy_data.txt` : This file contains the summary file that calculates the mean and standard deviation for each variable
+
+## Script
+Perform the analysis by:
+1. Use the script to download and store the data.
+2. Run the rest of the script to perform transformations and data cleaning. 
+
+## Codebook
+`CodeBook.RmD` in this repository contains additional information about variables, data, and transformations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
